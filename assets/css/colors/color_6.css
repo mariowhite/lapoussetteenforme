@@ -1,0 +1,237 @@
+/* Preloader */
+.fadingBarsG{
+background-color:#aec71e;
+}
+@-moz-keyframes bounce_fadingBarsG{
+0%{
+-moz-transform:scale(1);
+background-color:#aec71e;
+}
+
+100%{
+-moz-transform:scale(.3);
+background-color:#FFFFFF;
+}
+
+}
+
+@-webkit-keyframes bounce_fadingBarsG{
+0%{
+-webkit-transform:scale(1);
+background-color:#aec71e;
+}
+
+100%{
+-webkit-transform:scale(.3);
+background-color:#FFFFFF;
+}
+
+}
+
+@-ms-keyframes bounce_fadingBarsG{
+0%{
+-ms-transform:scale(1);
+background-color:#aec71e;
+}
+
+100%{
+-ms-transform:scale(.3);
+background-color:#FFFFFF;
+}
+
+}
+
+@-o-keyframes bounce_fadingBarsG{
+0%{
+-o-transform:scale(1);
+background-color:#aec71e;
+}
+
+100%{
+-o-transform:scale(.3);
+background-color:#FFFFFF;
+}
+
+}
+
+@keyframes bounce_fadingBarsG{
+0%{
+transform:scale(1);
+background-color:#aec71e;
+}
+
+100%{
+transform:scale(.3);
+background-color:#FFFFFF;
+}
+
+}
+/* // Preloader */
+
+/* Event Combo Packages */
+.ecp_color{color:#aec71e;}
+/* Event Combo Packages */
+
+/* Customer Review*/.quote i {color: rgba(174,199,30,0.2);}
+/* // Customer Review*/
+
+/* Flex Slider */
+.flex-control-paging li a.flex-active{ background-color:#aec71e; }
+
+
+#menu-pdf .link{ padding:5px 0px;  color:#aec71e;}
+.hours_border .link a {
+color: #aec71e;
+font-weight: 400;
+}
+
+/* 404 Page */
+.title_404{color:#aec71e; }
+#not_found .link button{ color: #FFFFFF; background:#aec71e; }
+#not_found .link button:hover { background-color: #848484; }
+.menu_404 ul li a { color:#aec71e;}
+.menu_404 ul li a:hover{ color:#848484;}
+
+/* // 404 Page */
+
+
+/* home_style */
+.events_title span{color:#aec71e;}
+
+/* Top Bar */
+.widget ul li:hover{  background-color:#aec71e;}
+.widget buttons{ background-color:#aec71e;}
+
+/* // home style */
+
+/* Menu Section */
+.price_text{ color:#aec71e;}
+#menu-pdf1 .link a, #menu-pdf .link a{color:#aec71e; font-weight:400;}
+.link button:hover{ background-color:#aec71e;}
+
+/* Pages */
+.recent_post li span{color:#aec71e;}
+.contact_icon{color:#aec71e;}
+
+/* Reservation */
+#reservation_form .submitBtn{background-color:#aec71e}
+
+/* Menu */
+ul.nav li a.selected{ color: #ffffff; background-color: #aec71e;} 
+.main-nav ul li li a:hover, .main-nav ul li li a.selected{background-color: #aec71e;}
+.main-nav>ul>li>ul {border-bottom: 2px solid #aec71e;}
+ul.nav li a:hover{  background-color:#aec71e; }
+ul.nav li a.selected{  background-color:#aec71e; }
+ul.nav li a:hover:after, ul.nav li a.selected:after { 
+		border-color:#aec71e transparent transparent ; 
+	}	
+
+
+/* Owl Slider */
+.slider_small_text {color: #aec71e;}
+.owl-prev:hover{ background:#aec71e;}
+.owl-next:hover{ background:#aec71e;}
+
+ul.recent_post li a:hover{ color:#aec71e; text-decoration:none;}
+
+.caption1 span{color:#aec71e;}
+
+/* Solid Common Colors */
+body  a { color:#7c7c7c; text-decoration:none; }
+body  a:hover { color:#aec71e; text-decoration:none; }
+p span { color:#aec71e; }
+
+.pat {	background-color:#aec71e; border:1px solid #aec71e;}	
+#form .submitBtn {color:#FFFFFF; background-color:#aec71e; }
+
+ul.social li:hover { background:#aec71e; cursor:pointer; }
+ul.social_about li:hover { background:#aec71e; cursor:pointer; }
+
+q, blockquote {	color:#aec71e;  }
+
+/* Colors */
+.top-bg1{	background-color:#aec71e; border:1px solid #aec71e;}
+.about-box p span { color:#aec71e; font-weight:600;}
+#gallery ul.filter li a:hover p,  #gallery ul.filter li a.current p{ background-color:#aec71e; color:#fff; }
+
+/* Portfolio */
+#filters li {  background-color: #aec71e; }
+.project-overlay { background:rgba(174,199,30,0.8); cursor: url(../../images/pointer.png),crosshair; }
+/* //  Portfolio  */
+
+.toggle-content strong{ color:#aec71e; }
+.tabbable .nav-tabs>li.active>a,.tabbable .nav-tabs>li.active>a:hover,.tabbable .nav-tabs>li.active>a:focus{border-top:4px solid #aec71e; color:#aec71e; }
+.tabbable .nav-tabs>li>a:hover{color:#aec71e;}
+
+/* Cycle slider */
+.cycle-pager span.cycle-pager-active { color: #aec71e;}
+#progress { position: absolute; bottom: 0; left:0; height: 7px; width: 0px; 
+background: -moz-linear-gradient(left, rgba(174,199,30,0.3) 0%, rgba(174,199,30,0.8) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(174,199,30,0.3)), color-stop(100%,rgba(174,199,30,0.8))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, rgba(174,199,30,0.3) 0%,rgba(174,199,30,0.8) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, rgba(174,199,30,0.3) 0%,rgba(174,199,30,0.8) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, rgba(174,199,30,0.3) 0%,rgba(174,199,30,0.8) 100%); /* IE10+ */
+background: linear-gradient(to right, rgba(174,199,30,0.3) 0%,rgba(174,199,30,0.8) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d1e1e1e', endColorstr='#cc000000',GradientType=1 ); /* IE6-9 */
+    z-index: 99999; 
+-webkit-border-top-right-radius: 50px;
+-webkit-border-bottom-right-radius: 50px;
+-moz-border-radius-topright: 50px;
+-moz-border-radius-bottomright: 50px;
+border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;
+}
+.prev:before,
+.next:before                 {
+								font-family: 'Fontawesome';
+                                 color: rgba(174,199,30,0.6);
+                                 font-weight: normal;
+                                 font-size: 40px;
+                                 position: absolute;
+                             }
+/* // Cycle slider */
+.cycle-slideshow:hover .prev {
+                                 -moz-animation: bounceInLeft  0.7s;
+                                 -webkit-animation: bounceInLeft  0.7s;
+                                 animation: bounceInLeft 0.7s;
+                                 filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+                                 opacity: 1;
+								 background:url(../../images/prev.png);
+								 background-color:#aec71e;
+                             }
+.cycle-slideshow:hover .next {
+                                 -moz-animation: bounceInRight  0.7s;
+                                 -webkit-animation: bounceInRight  0.7s;
+                                 animation: bounceInRight 0.7s;
+                                 filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+                                 opacity: 1;
+								 background:url(../../images/next.png);
+								 background-color:#aec71e;                             }
+
+.aboutus-top li span {font-size:15px; font-weight:600; color:#aec71e; }
+blockquote{ border-left:5px solid #aec71e; }
+.green_bg { background-color: #aec71e; }
+.caption5 span, .caption7 { background-color: #aec71e; }
+ul.social1 li i{ color:#aec71e;	}
+.upcomimg_title span{ color:#aec71e; }
+#form input:focus,  #form textarea:focus, .reserve_form input:focus,  .reserve_form textarea:focus{ 
+	border:0;
+    outline: 0;
+  	/* IE6-9 */
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(174,199,30,0.8);
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(174,199,30,0.8);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(174,199,30,0.8); 
+}
+.reserve_form .submitBtn{ background-color: #aec71e; }
+.circle_slide .owl-prev:hover{ background:#aec71e;}
+.circle_slide .owl-next:hover{ background:#aec71e;}
+
+
+/* Reservation */
+.datetimepicker table tr td.active,.datetimepicker table tr td.active:hover,.datetimepicker table tr td.active.disabled,.datetimepicker table tr td.active.disabled:hover{background-color:#aec71e; color:#fff;}
+
+.datetimepicker table tr td.active:hover,.datetimepicker table tr td.active:hover:hover,.datetimepicker table tr td.active.disabled:hover,.datetimepicker table tr td.active.disabled:hover:hover,.datetimepicker table tr td.active:active,.datetimepicker table tr td.active:hover:active,.datetimepicker table tr td.active.disabled:active,.datetimepicker table tr td.active.disabled:hover:active,.datetimepicker table tr td.active.active,.datetimepicker table tr td.active:hover.active,.datetimepicker table tr td.active.disabled.active,.datetimepicker table tr td.active.disabled:hover.active,.datetimepicker table tr td.active.disabled,.datetimepicker table tr td.active:hover.disabled,.datetimepicker table tr td.active.disabled.disabled,.datetimepicker table tr td.active.disabled:hover.disabled,.datetimepicker table tr td.active[disabled],.datetimepicker table tr td.active:hover[disabled],.datetimepicker table tr td.active.disabled[disabled],.datetimepicker table tr td.active.disabled:hover[disabled]{background-color:#aec71e;  color:#fff;}
+
+.datetimepicker table tr td span.active:hover,.datetimepicker table tr td span.active:hover:hover,.datetimepicker table tr td span.active.disabled:hover,.datetimepicker table tr td span.active.disabled:hover:hover,.datetimepicker table tr td span.active:active,.datetimepicker table tr td span.active:hover:active,.datetimepicker table tr td span.active.disabled:active,.datetimepicker table tr td span.active.disabled:hover:active,.datetimepicker table tr td span.active.active,.datetimepicker table tr td span.active:hover.active,.datetimepicker table tr td span.active.disabled.active,.datetimepicker table tr td span.active.disabled:hover.active,.datetimepicker table tr td span.active.disabled,.datetimepicker table tr td span.active:hover.disabled,.datetimepicker table tr td span.active.disabled.disabled,.datetimepicker table tr td span.active.disabled:hover.disabled,.datetimepicker table tr td span.active[disabled],.datetimepicker table tr td span.active:hover[disabled],.datetimepicker table tr td span.active.disabled[disabled],.datetimepicker table tr td span.active.disabled:hover[disabled]{background-color:#aec71e; color:#fff;}
+
+.datetimepicker table tr td span.active:active,.datetimepicker table tr td span.active:hover:active,.datetimepicker table tr td span.active.disabled:active,.datetimepicker table tr td span.active.disabled:hover:active,.datetimepicker table tr td span.active.active,.datetimepicker table tr td span.active:hover.active,.datetimepicker table tr td span.active.disabled.active,.datetimepicker table tr td span.active.disabled:hover.active{background-color:#aec71e;  color:#fff;}
